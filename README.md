@@ -1,3 +1,17 @@
+# Space Invaders
+
+Space Invaders es un juego clásico desarrollado en Python utilizando la biblioteca Pygame.
+
+## Requisitos
+
+- Python 3.x
+- Pygame
+
+## Instalación
+
+1. Clona o descarga este repositorio.
+2. Asegúrate de tener Python instalado en tu sistema.
+3. Instala Pygame ejecutando el siguiente comando en tu terminal:
 
 ## Cómo jugar
 
